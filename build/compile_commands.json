@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/PC user/Documentation Project/doctracker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\cc.exe -DSQLITE_THREADSAFE=0 -g -o CMakeFiles\\sqlite3.dir\\sqlite3.c.obj -c \"C:\\Users\\PC user\\Documentation Project\\doctracker\\sqlite3.c\"",
+  "file": "C:/Users/PC user/Documentation Project/doctracker/sqlite3.c",
+  "output": "C:/Users/PC user/Documentation Project/doctracker/build/CMakeFiles/sqlite3.dir/sqlite3.c.obj"
+},
+{
+  "directory": "C:/Users/PC user/Documentation Project/doctracker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGLFW_DLL -I\"C:/Users/PC user/Documentation Project/doctracker\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui/backends\" -g -std=gnu++17 -o CMakeFiles\\Clavis.dir\\main.cpp.obj -c \"C:\\Users\\PC user\\Documentation Project\\doctracker\\main.cpp\"",
+  "file": "C:/Users/PC user/Documentation Project/doctracker/main.cpp",
+  "output": "C:/Users/PC user/Documentation Project/doctracker/build/CMakeFiles/Clavis.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC user/Documentation Project/doctracker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGLFW_DLL -I\"C:/Users/PC user/Documentation Project/doctracker\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui/backends\" -g -std=gnu++17 -o CMakeFiles\\Clavis.dir\\imgui\\imgui.cpp.obj -c \"C:\\Users\\PC user\\Documentation Project\\doctracker\\imgui\\imgui.cpp\"",
+  "file": "C:/Users/PC user/Documentation Project/doctracker/imgui/imgui.cpp",
+  "output": "C:/Users/PC user/Documentation Project/doctracker/build/CMakeFiles/Clavis.dir/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC user/Documentation Project/doctracker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGLFW_DLL -I\"C:/Users/PC user/Documentation Project/doctracker\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui/backends\" -g -std=gnu++17 -o CMakeFiles\\Clavis.dir\\imgui\\imgui_draw.cpp.obj -c \"C:\\Users\\PC user\\Documentation Project\\doctracker\\imgui\\imgui_draw.cpp\"",
+  "file": "C:/Users/PC user/Documentation Project/doctracker/imgui/imgui_draw.cpp",
+  "output": "C:/Users/PC user/Documentation Project/doctracker/build/CMakeFiles/Clavis.dir/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC user/Documentation Project/doctracker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGLFW_DLL -I\"C:/Users/PC user/Documentation Project/doctracker\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui/backends\" -g -std=gnu++17 -o CMakeFiles\\Clavis.dir\\imgui\\imgui_tables.cpp.obj -c \"C:\\Users\\PC user\\Documentation Project\\doctracker\\imgui\\imgui_tables.cpp\"",
+  "file": "C:/Users/PC user/Documentation Project/doctracker/imgui/imgui_tables.cpp",
+  "output": "C:/Users/PC user/Documentation Project/doctracker/build/CMakeFiles/Clavis.dir/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC user/Documentation Project/doctracker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGLFW_DLL -I\"C:/Users/PC user/Documentation Project/doctracker\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui/backends\" -g -std=gnu++17 -o CMakeFiles\\Clavis.dir\\imgui\\imgui_widgets.cpp.obj -c \"C:\\Users\\PC user\\Documentation Project\\doctracker\\imgui\\imgui_widgets.cpp\"",
+  "file": "C:/Users/PC user/Documentation Project/doctracker/imgui/imgui_widgets.cpp",
+  "output": "C:/Users/PC user/Documentation Project/doctracker/build/CMakeFiles/Clavis.dir/imgui/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC user/Documentation Project/doctracker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGLFW_DLL -I\"C:/Users/PC user/Documentation Project/doctracker\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui/backends\" -g -std=gnu++17 -o CMakeFiles\\Clavis.dir\\imgui\\backends\\imgui_impl_glfw.cpp.obj -c \"C:\\Users\\PC user\\Documentation Project\\doctracker\\imgui\\backends\\imgui_impl_glfw.cpp\"",
+  "file": "C:/Users/PC user/Documentation Project/doctracker/imgui/backends/imgui_impl_glfw.cpp",
+  "output": "C:/Users/PC user/Documentation Project/doctracker/build/CMakeFiles/Clavis.dir/imgui/backends/imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC user/Documentation Project/doctracker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGLFW_DLL -I\"C:/Users/PC user/Documentation Project/doctracker\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui\" -I\"C:/Users/PC user/Documentation Project/doctracker/imgui/backends\" -g -std=gnu++17 -o CMakeFiles\\Clavis.dir\\imgui\\backends\\imgui_impl_opengl3.cpp.obj -c \"C:\\Users\\PC user\\Documentation Project\\doctracker\\imgui\\backends\\imgui_impl_opengl3.cpp\"",
+  "file": "C:/Users/PC user/Documentation Project/doctracker/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "C:/Users/PC user/Documentation Project/doctracker/build/CMakeFiles/Clavis.dir/imgui/backends/imgui_impl_opengl3.cpp.obj"
+}
+]

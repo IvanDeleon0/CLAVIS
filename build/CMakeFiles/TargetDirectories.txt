@@ -1,0 +1,4 @@
+C:/Users/PC user/Documentation Project/doctracker/build/CMakeFiles/sqlite3.dir
+C:/Users/PC user/Documentation Project/doctracker/build/CMakeFiles/Clavis.dir
+C:/Users/PC user/Documentation Project/doctracker/build/CMakeFiles/edit_cache.dir
+C:/Users/PC user/Documentation Project/doctracker/build/CMakeFiles/rebuild_cache.dir
